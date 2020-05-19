@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+Find that goat or whatever and who made it and ask how they  manage to clone a living thing
 
 
 Make
